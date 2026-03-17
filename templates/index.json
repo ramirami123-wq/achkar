@@ -120,7 +120,7 @@
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
-        "product": "neck-and-face-wrinkle-remover",
+        "product": "neck-and-face-wrinkle-remover-1",
         "layout": "media_first",
         "full_width": false,
         "show_divider": false,
@@ -229,7 +229,7 @@
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
-        "product": "skin-brightening-vitamin-c-serum",
+        "product": "skin-brightening-vitamin-c-serum-1",
         "layout": "media_first",
         "full_width": false,
         "show_divider": false,
