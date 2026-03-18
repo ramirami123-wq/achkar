@@ -15,18 +15,18 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Logo.jpg_-_Georges_El_Achkar.jpg",
+            "image": "shopify://shop_images/1.png",
             "image_position": "center center",
-            "text_box_position": "bottom-right",
+            "text_box_position": "bottom-left",
             "subheading": "",
             "subheading_size": "h5",
-            "heading": "",
-            "heading_size": "h0",
+            "heading": "Timeless Skin Begins Here",
+            "heading_size": "h1",
             "heading_tag": "h2",
-            "text": "",
+            "text": "Refined skincare rituals to smooth, lift, and restore your natural glow.",
             "text_size": "typeset2",
-            "button_label": "",
-            "button_link": "",
+            "button_label": "shop now",
+            "button_link": "shopify://collections/all",
             "button_size": "medium",
             "button_style_secondary": false
           }
@@ -55,83 +55,6 @@
         "colors_navigation_text": "#ffffff",
         "colors_navigation_background": "#1a1b18",
         "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
-    "featured_product_RCYCaB": {
-      "type": "featured-product",
-      "blocks": {
-        "title_7PbUaC": {
-          "type": "title",
-          "settings": {
-            "title_size": "h2",
-            "title_tag": "h2",
-            "show_price": false,
-            "price_size": "medium"
-          }
-        },
-        "rating_AN8Hkq": {
-          "type": "rating",
-          "settings": {}
-        },
-        "price_7c3cKU": {
-          "type": "price",
-          "settings": {
-            "price_size": "medium",
-            "show_badges": true,
-            "sale_badge_basis": "percentage"
-          }
-        },
-        "custom_liquid_9wDUPc": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Lift & Rejuvenate Skin</span> – Helps reduce the appearance of fine lines and wrinkles while improving firmness and elasticity.<br><br>\n\n<span style=\"font-weight: bold;\">💡 LED Photon Therapy</span> – Supports skin repair, collagen production, and overall rejuvenation.<br><br>\n\n<span style=\"font-weight: bold;\">⚡ Microcurrent Technology</span> – Gently stimulates facial muscles to help lift, tighten, and tone the skin.<br><br>\n\n<span style=\"font-weight: bold;\">🌡️ Ultrasonic Vibration & Gentle Heat</span> – Enhances absorption of serums and creams while promoting blood circulation and skin renewal.<br><br>\n\n<span style=\"font-weight: bold;\">💆‍♀️ Adjustable Comfort Levels</span> – 3 intensity levels designed for different skin sensitivities and treatment needs.<br><br>\n\n<span style=\"font-weight: bold;\">👌 Ergonomic Beauty Design</span> – Perfectly shaped to glide along the jawline, cheeks, and neck for easy at-home treatments.\n\n</div>"
-          }
-        },
-        "variant_picker_txHV9a": {
-          "type": "variant_picker",
-          "settings": {
-            "show_variant_labels": true,
-            "picker_type": "button",
-            "enable_color_swatches": true,
-            "swatches_source": "file",
-            "swatch_type": "round",
-            "enable_swatch_cross": true,
-            "enable_swatch_unavailable_click": false,
-            "size_chart": ""
-          }
-        },
-        "buy_buttons_jtWcw8": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_quantity_selector": true,
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false
-          }
-        }
-      },
-      "block_order": [
-        "title_7PbUaC",
-        "rating_AN8Hkq",
-        "price_7c3cKU",
-        "custom_liquid_9wDUPc",
-        "variant_picker_txHV9a",
-        "buy_buttons_jtWcw8"
-      ],
-      "name": "t:sections.featured-product.presets.name",
-      "settings": {
-        "product": "neck-and-face-wrinkle-remover-1",
-        "layout": "media_first",
-        "full_width": false,
-        "show_divider": false,
-        "show_featured_media": false,
-        "hide_variants": false,
-        "enable_image_zoom": false,
-        "enable_video_looping": false,
-        "image_ratio": "adapt_first",
-        "image_position": "center center",
-        "enable_layered_images": false,
-        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -167,79 +90,32 @@
         "padding_bottom": 20
       }
     },
-    "featured_product_XQgPz8": {
-      "type": "featured-product",
-      "blocks": {
-        "title_fEY3Gt": {
-          "type": "title",
-          "settings": {
-            "title_size": "h2",
-            "title_tag": "h2",
-            "show_price": false,
-            "price_size": "medium"
-          }
-        },
-        "rating_PfpDDt": {
-          "type": "rating",
-          "settings": {}
-        },
-        "price_CKeBgz": {
-          "type": "price",
-          "settings": {
-            "price_size": "medium",
-            "show_badges": true,
-            "sale_badge_basis": "percentage"
-          }
-        },
-        "custom_liquid_JhDVb7": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Skin Brightening Vitamin C Serum</span> – Reveal smoother, brighter, and healthier-looking skin with our powerful Vitamin C Serum formulated to target dullness, dark spots, and uneven texture.<br><br>\n\n<span style=\"font-weight: bold;\">🌿 Key Benefits</span> – Reduces blemishes & dark spots, boosts skin radiance, improves elasticity & firmness, and helps even out skin tone.<br><br>\n\n<span style=\"font-weight: bold;\">💧 Why You’ll Love It</span> – This lightweight, fast-absorbing serum penetrates deeply to deliver antioxidants that protect against environmental damage while promoting a natural glow without leaving your skin oily or sticky.<br><br>\n\n\n\n</div>"
-          }
-        },
-        "variant_picker_YDteLV": {
-          "type": "variant_picker",
-          "settings": {
-            "show_variant_labels": true,
-            "picker_type": "button",
-            "enable_color_swatches": true,
-            "swatches_source": "file",
-            "swatch_type": "round",
-            "enable_swatch_cross": true,
-            "enable_swatch_unavailable_click": false,
-            "size_chart": ""
-          }
-        },
-        "buy_buttons_E6x3mH": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_quantity_selector": true,
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false
-          }
-        }
-      },
-      "block_order": [
-        "title_fEY3Gt",
-        "rating_PfpDDt",
-        "price_CKeBgz",
-        "custom_liquid_JhDVb7",
-        "variant_picker_YDteLV",
-        "buy_buttons_E6x3mH"
-      ],
-      "name": "t:sections.featured-product.presets.name",
+    "featured_collection_tVFJtF": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "product": "skin-brightening-vitamin-c-serum-1",
-        "layout": "media_first",
-        "full_width": false,
+        "collection": "",
+        "products_to_show": 4,
+        "horizontal_scroll": false,
+        "show_view_all": true,
         "show_divider": false,
-        "show_featured_media": false,
-        "hide_variants": false,
-        "enable_image_zoom": false,
-        "enable_video_looping": false,
-        "image_ratio": "adapt_first",
+        "heading": "Featured collection",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
         "image_position": "center center",
-        "enable_layered_images": false,
+        "enable_image_fill": true,
+        "show_secondary_image": false,
+        "secondary_image_max": 1,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -450,9 +326,8 @@
   },
   "order": [
     "slideshow",
-    "featured_product_RCYCaB",
     "scrolling_promotion_gqQrxK",
-    "featured_product_XQgPz8",
+    "featured_collection_tVFJtF",
     "scrolling_promotion_PMbHjR",
     "rich_text_iPTEGL",
     "scrolling_promotion_yJEgih",
