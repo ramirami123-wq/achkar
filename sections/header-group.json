@@ -47,19 +47,19 @@
       "type": "header",
       "settings": {
         "logo": "shopify://shop_images/Capturhhhe.png",
-        "logo_height": 50,
-        "mobile_logo_height": 50,
-        "logo_position": "top-center",
+        "logo_height": 100,
+        "mobile_logo_height": 100,
+        "logo_position": "middle-left",
         "menu": "main-menu",
         "menu_mobile": "main-menu",
         "enable_dropdown_menu": true,
         "show_line_separator": true,
         "uppercase_menu_items": true,
         "cart_icon": "bag",
-        "icon_weight": "1.1",
+        "icon_weight": "0.9",
         "enable_country_selector": true,
         "enable_language_selector": true,
-        "enable_sticky_header": false,
+        "enable_sticky_header": true,
         "show_sticky_header_scroll_up": false,
         "transparent_logo": "shopify://shop_images/Capturhhhe.png",
         "enable_transparent_header": false,
@@ -76,8 +76,8 @@
         "colors_background": "#ffffff",
         "gradient_background": "",
         "colors_highlight": "#bbff00",
-        "padding_top": 12,
-        "padding_bottom": 12
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     }
   },
