@@ -59,8 +59,8 @@
         "video": "shopify://files/videos/snaptik_7459438990207241514_v3 (online-video-cutter.com).mp4",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
-        "full_width": false,
-        "show_divider": false,
+        "full_width": true,
+        "show_divider": true,
         "heading": "Real Skin. Real Results.",
         "heading_size": "h1",
         "heading_alignment": "center",
@@ -140,7 +140,7 @@
         "heading_NEyD4Q": {
           "type": "heading",
           "settings": {
-            "heading": "AT ORAVELLA",
+            "heading": "OUR MISSION",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -148,7 +148,7 @@
         "text_z3jQfd": {
           "type": "text",
           "settings": {
-            "text": "<p>we believe that beauty and self-care should be simple, effective, and accessible to everyone. Our mission is to bring you innovative skincare solutions that help you look and feel your best from the comfort of your home.</p><p>We carefully select high-quality beauty products designed to support healthier, smoother, and more radiant skin. From advanced skincare serums to modern beauty devices, every product we offer is chosen to help improve your daily skincare routine.</p>",
+            "text": "<p>In a world of fast solutions and overwhelming routines, we chose a different path. One rooted in simplicity, intention, and quiet confidence. OraVella was created to bring skincare back to what it should be: a moment of calm, a daily ritual, a form of self-respect.</p><p><br/>We believe in skin that feels healthy, balanced, and truly yours.<br/>Because timeless skin is not about perfection—<br/>it’s about confidence and care.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false,
             "highlight_phrases": "",
