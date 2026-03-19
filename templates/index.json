@@ -51,115 +51,87 @@
       ],
       "settings": {}
     },
-    "collage_Uw9Y7e": {
-      "type": "collage",
-      "blocks": {
-        "video_h3CgLE": {
-          "type": "video",
-          "settings": {
-            "enable_video_looping": true,
-            "video": "shopify://files/videos/snaptik_7459438990207241514_v3 (online-video-cutter.com).mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "description": "",
-            "heading": ""
-          }
-        },
-        "product_TMgkNi": {
-          "type": "product",
-          "settings": {
-            "product": "neck-and-face-wrinkle-remover-1",
-            "second_image": false,
-            "enable_quick_view": true
-          }
-        },
-        "product_X6ckqT": {
-          "type": "product",
-          "settings": {
-            "product": "skin-brightening-vitamin-c-serum-1",
-            "second_image": false,
-            "enable_quick_view": true
-          }
-        }
-      },
-      "block_order": [
-        "video_h3CgLE",
-        "product_TMgkNi",
-        "product_X6ckqT"
-      ],
-      "name": "t:sections.collage.presets.name",
+    "video_KrXqJN": {
+      "type": "video",
+      "name": "t:sections.video.presets.name",
       "settings": {
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "apply_overlay": true,
+        "enable_video_looping": true,
+        "video": "shopify://files/videos/snaptik_7459438990207241514_v3 (online-video-cutter.com).mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
         "show_divider": false,
-        "heading": "",
-        "heading_size": "h2",
-        "heading_alignment": "left",
+        "heading": "Real Skin. Real Results.",
+        "heading_size": "h1",
+        "heading_alignment": "center",
         "heading_tag": "h2",
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "featured_collection_tVFJtF": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
+    "multicolumn_WdVfcK": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_UACwFw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Oravella_post_4.png",
+            "title": "Lift. Smooth. Restore.",
+            "title_size": "h3",
+            "text": "<p>A targeted solution designed to help reduce the appearance of fine lines while improving skin texture and firmness.<br/></p>",
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/neck-and-face-wrinkle-remover-1",
+            "button_style_secondary": false
+          }
+        },
+        "column_4BzURp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1759344909_phpehdg9rfag0qj6hFZpD5_9136a47e-c067-4c63-85d4-9223de7a0b05.jpg",
+            "title": "Brighten. Renew. Glow.",
+            "title_size": "h3",
+            "text": "<p>A powerful antioxidant formula that enhances radiance and evens skin tone for a luminous complexion.</p><p></p>",
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/skin-brightening-vitamin-c-serum-1",
+            "button_style_secondary": false
+          }
+        },
+        "column_t4wWpq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Oravella_post_2.png",
+            "title": "Complete your skincare ritual.",
+            "title_size": "h3",
+            "text": "<p>✔ Better results together<br/>✔ Save more<br/>✔ Limited availability</p><p></p>",
+            "button_label": "shop now",
+            "button_link": "shopify://collections/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "column_UACwFw",
+        "column_4BzURp",
+        "column_t4wWpq"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "collection": "all-products",
-        "products_to_show": 4,
-        "horizontal_scroll": false,
-        "show_view_all": true,
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "text_alignment": "left",
         "show_divider": false,
-        "heading": "Featured collection",
+        "image_width": "full",
+        "columns_desktop": 3,
+        "open_in_new_tab": false,
+        "heading": "Refined Skin. Radiant Confidence.",
         "heading_size": "h1",
         "heading_alignment": "left",
         "heading_tag": "h2",
-        "columns_mobile": "2",
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "image_position": "center center",
-        "enable_image_fill": true,
-        "show_secondary_image": false,
-        "secondary_image_max": 1,
-        "show_vendor": false,
-        "show_rating": false,
-        "show_quick_buy": true,
-        "enable_quick_view": true,
-        "enable_color_swatches": true,
-        "enable_countdown": true,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "scrolling_promotion_PMbHjR": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "announcement_n9NGw3": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "FREE DELIVERY ON ORDERS OVER 40$",
-            "text_size": 20,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement_n9NGw3"
-      ],
-      "name": "t:sections.scrolling-promotion.presets.name",
-      "settings": {
-        "direction": "left",
-        "speed": 1.6,
-        "show_divider": false,
-        "use_custom_colors": true,
-        "colors_icon": "#ffffff",
-        "colors_text": "#ffffff",
-        "colors_background": "#483219",
-        "gradient_background": "",
-        "padding_top": 20,
-        "padding_bottom": 20
       }
     },
     "rich_text_iPTEGL": {
@@ -198,7 +170,7 @@
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
-        "colors_text": "#212326",
+        "colors_text": "#483219",
         "colors_background": "#ffffff",
         "colors_highlight": "#bbff00",
         "gradient_background": "",
@@ -336,9 +308,8 @@
   },
   "order": [
     "1773944449836854ed",
-    "collage_Uw9Y7e",
-    "featured_collection_tVFJtF",
-    "scrolling_promotion_PMbHjR",
+    "video_KrXqJN",
+    "multicolumn_WdVfcK",
     "rich_text_iPTEGL",
     "scrolling_promotion_yJEgih",
     "faq_VkHiGm",
