@@ -9,14 +9,14 @@
  */
 {
   "sections": {
-    "1773944449836854ed": {
+    "blocks_CFxzgH": {
       "type": "_blocks",
       "blocks": {
-        "ai_gen_block_09353bf_RzX3iN": {
+        "ai_gen_block_09353bf_KBXdCM": {
           "type": "ai_gen_block_09353bf",
           "settings": {
             "image": "shopify://shop_images/1.png",
-            "placeholder_bg_color": "#ffffff",
+            "placeholder_bg_color": "#f3f3f3",
             "min_height_desktop": 600,
             "min_height_mobile": 600,
             "content_position_vertical": "flex-end",
@@ -28,7 +28,7 @@
             "text_alignment": "center",
             "spacing_between_elements": 20,
             "heading": "Timeless Skin Begins Here",
-            "heading_size": 56,
+            "heading_size": 52,
             "heading_color": "#483219",
             "text": "Refined Skincare Rituals to Smooth, Fit, and Restore Your Natural Glow",
             "text_size": 22,
@@ -47,8 +47,9 @@
         }
       },
       "block_order": [
-        "ai_gen_block_09353bf_RzX3iN"
+        "ai_gen_block_09353bf_KBXdCM"
       ],
+      "name": "Hero",
       "settings": {}
     },
     "video_KrXqJN": {
@@ -307,7 +308,7 @@
     }
   },
   "order": [
-    "1773944449836854ed",
+    "blocks_CFxzgH",
     "video_KrXqJN",
     "multicolumn_WdVfcK",
     "rich_text_iPTEGL",
